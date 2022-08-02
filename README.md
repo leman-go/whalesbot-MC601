@@ -1,6 +1,6 @@
 # some notes of the document of ai-car 
 
-* the readme.md created on 2022.07.27 *
+*the readme.md created on 2022.07.27*
 
 ## first edited
 
@@ -14,4 +14,4 @@
 
 the codes used will be uploaded after the competition,and the estimated time is the end of 2022.
 
-* the above was edited on August 2, 2022 *
+*the above was edited on August 2, 2022*
